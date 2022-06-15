@@ -21,7 +21,7 @@ window.onload = () => {
     }
     
     const urlParkings = "https://data.rennesmetropole.fr/api/records/1.0/search/?dataset=export-api-parking-citedia"
-    const urlParcRelais = "https://data.explore.star.fr/api/records/1.0/search/?dataset=tco-parcsrelais-etat-tr&facet=nom&facet=etat"       
+    const urlParcRelais = "https://data.explore.star.fr/api/records/1.0/search/?dataset=tco-parcsrelais-star-etat-tr&facet=nom&facet=etat"       
     
     let totalPlaces = []
     let totalLibres = []
